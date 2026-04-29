@@ -1,1 +1,1 @@
-# SnakeIA
+Snake 3D: Cyber Infection es una reinterpretación del clásico juego de la serpiente, llevado a un entorno tridimensional con una estética cibernética inspirada en sistemas digitales comprometidos. El jugador controla una entidad tipo malware que se expande dentro de un espacio virtual, consumiendo datos para crecer mientras evita colisionar con los límites del sistema o consigo misma. La experiencia combina mecánicas clásicas con una ambientación futurista, creando una sensación de inmersión dentro de una red digital en constante riesgo.
